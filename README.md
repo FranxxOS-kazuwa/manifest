@@ -1,6 +1,5 @@
-<img src="https://github.com/PixelOS-AOSP/official_devices/blob/thirteen/banners/latest.png?raw=true">
 
-# PixelOS
+# FranxxOS
 
  Getting Started
 ---------------
@@ -10,7 +9,7 @@ familiar with [Git and Repo](https://source.android.com/setup/build/downloading)
  To initialize your local repository, use command:
 
 ```bash
-repo init -u https://github.com/PixelOS-AOSP/manifest.git -b thirteen
+repo init -u https://github.com/FranxxOS-kazuwa/manifest.git -b 13
 ```
 
 Then sync up:
@@ -38,3 +37,16 @@ Start compilation
 ```bash
 make bacon
 ```
+
+For becoming an official FranxxOS Maintainer get in touch with the dev on telegram:@kickout_765
+
+Thanks section
+Here's my thanks to people who made this possible:
+
+PixelOS
+VoidUI
+LessAOSP
+DerpFest
+Crdroid
+Pixel experience
+Chrish OS

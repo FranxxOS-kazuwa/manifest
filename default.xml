@@ -1184,8 +1184,8 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
   <!-- END open-source projects -->
 
-  <!-- PixelOS -->
+  <!-- FranxxOS -->
   <include name="snippets/remove.xml" />
   <include name="snippets/external.xml" />
-  <include name="snippets/custom.xml" />
+  <include name="snippets/fos.xml" />
 </manifest>
