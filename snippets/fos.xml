@@ -64,6 +64,9 @@
   <!-- Packages -->
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="FranxxOS" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="FranxxOS" />
+  
+  <!-- GameSpace -->
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="FranxxOS" />
 
   <!-- Vendor -->
   <project path="vendor/aosp" name="vendor_aosp" remote="FranxxOS" />
