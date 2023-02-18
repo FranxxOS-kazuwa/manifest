@@ -60,11 +60,13 @@
 
   <!-- Hardware -->
   <project path="hardware/lineage/interfaces" name="hardware_lineage_interfaces" remote="FranxxOS" />
-
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="FranxxOS" />
+  
   <!-- Packages -->
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="FranxxOS" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="FranxxOS" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="FranxxOS" />
+  <project path="packages/apps/Kprofiles" name="packages_apps_Kprofiles" remote="FranxxOS" />
   
   <!-- GameSpace -->
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="FranxxOS" />
