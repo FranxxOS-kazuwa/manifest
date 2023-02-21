@@ -71,6 +71,9 @@
   <!-- GameSpace -->
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="FranxxOS" />
 
+ <!-- TakeControl -->
+    <project path="packages/apps/TakeControl" name="packages_apps_TakeControl" remote="FranxxOS" />
+  
   <!-- Vendor -->
   <project path="vendor/aosp" name="vendor_aosp" remote="FranxxOS" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="FranxxOS" />
