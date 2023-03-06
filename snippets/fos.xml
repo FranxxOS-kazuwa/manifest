@@ -68,6 +68,9 @@
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="FranxxOS" />
   <project path="packages/apps/Kprofiles" name="packages_apps_Kprofiles" remote="FranxxOS" />
   
+  <!-- Um -->
+   <project path="packages/apps/Um" name="packages_apps_Um" remote="FranxxOS" />
+  
   <!-- GameSpace -->
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="FranxxOS" />
 
